@@ -767,7 +767,7 @@
     letter-spacing: 0.03em;
   }
   .modal-check:checked + .modal-check-text::before {
-    background-image: url(../images/check.svg);
+    background-image: url(../images/icons.svg#icon-check;)
     border: none;
   }
   .modal-check-text::before {
