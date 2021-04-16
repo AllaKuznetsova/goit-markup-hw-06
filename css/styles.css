@@ -211,6 +211,10 @@
     border: none;
     cursor: pointer;
   }
+   .btn-center{
+     display: flex;
+     align-items: center;
+   }
   
   .btn-portfolio {
     display: inline-block;
@@ -539,7 +543,7 @@
   color: var(--white-color);
   outline: none;
   }
-  .telegramm-icon {
+  .telegram-icon {
     margin-left: 10px;
   }
   /* Портфолио */
@@ -661,7 +665,7 @@
     padding: 6px;
   }
   .close-btn:hover,
-.close-btn:focus {
+  .close-btn:focus {
   fill: var(--accent-color);
 }
   .is-hidden {
